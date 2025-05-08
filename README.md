@@ -4,8 +4,8 @@ This project demonstrates unsupervised anomaly detection using the **Isolation F
 
 ## Contents
 
-- 'data-preprocessing-uad.ipynb': Data preprocessing steps for anomaly detection.
-- 'Anomaly-test.ipynb': Testing and evaluation of anomaly detection models.
+- data-preprocessing-uad.ipynb : Data preprocessing steps for anomaly detection.
+- Anomaly-test.ipynb : Testing and evaluation of anomaly detection models.
 
 
 ## Usage
